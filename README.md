@@ -1,6 +1,6 @@
 # Unity-Azure-Cloud-Game
 
-In term of Unity Azure Cloud Game series on my [youtube](https://www.youtube.com/playlist?list=PLRz-2ltlXLUKYiFcSG1ME0G5-ukGCHtc_)
+This is source code for [Unity Azure Cloud Game](https://www.youtube.com/playlist?list=PLRz-2ltlXLUKYiFcSG1ME0G5-ukGCHtc_) series on my youtube!
 
 ![image](https://github.com/lucthienphong1120/Unity-Azure-Cloud-Game/assets/90561566/ef42faaa-0c9b-4993-9944-b23d93f96e02)
 
@@ -20,3 +20,5 @@ In this series, we will work together to make an FPS Multiplayer game using Unit
 + Part 11: Create a shop, inventory and buy items
 + Part 12: Game data management, API objects
 + Part 13: Unity CI-CD Azure DevOps and Github
+
+Link: [Unity Azure Cloud Game](https://www.youtube.com/playlist?list=PLRz-2ltlXLUKYiFcSG1ME0G5-ukGCHtc_)
